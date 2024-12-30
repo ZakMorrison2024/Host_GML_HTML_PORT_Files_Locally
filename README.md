@@ -1,4 +1,4 @@
-# Host GML-Javascript Game Locally
+# Host GML-Javascript (HTML PORT) Game Locally
 
 This repository contains the files for JavaScript-based GameMaker Language (GML) game host. Follow the steps below to host the game locally using Python.
 
