@@ -3,7 +3,7 @@
 This repository contains the files for JavaScript-based GameMaker Language (GML) game host. Follow the steps below to host the game locally using Python.
 
 ## Features
-- It hosts your GML game (HTML PORT) on 127.0.0.1:PORT
+- It hosts your GML game (HTML PORT) on 127.0.0.1:PORT/localhost:PORT
 
 ## Requirements
 - Python 3.x installed on your system.
